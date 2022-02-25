@@ -1,0 +1,331 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The restauration of the Jevves: or, a true relation of their progress and proceedings in order to the regaining of their ancient kingdom. Being the substance of several letters viz. from Antwerp, Legorn, Florence, &amp;c. Published by R.R.</title>
+            <author>R. R.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58306</idno>
+            <idno type="STC">Wing R64</idno>
+            <idno type="STC">ESTC R216706</idno>
+            <idno type="EEBO-CITATION">99828428</idno>
+            <idno type="PROQUEST">99828428</idno>
+            <idno type="VID">32855</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58306)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32855)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1857:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The restauration of the Jevves: or, a true relation of their progress and proceedings in order to the regaining of their ancient kingdom. Being the substance of several letters viz. from Antwerp, Legorn, Florence, &amp;c. Published by R.R.</title>
+                  <author>R. R.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by A. Maxwell,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>in the year 1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Antwerp, Legorn, Florence, &amp;c." are in brackets on title page.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jews --  Restoration --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32855:1"/>
+            <p> THE Reſtauratio<g ref="char:cmbAbbrStroke">̄</g>n OF THE JEWES: <hi>Or,</hi> A true RELATION OF THEIR PROGRESS and PROCEEDINGS in order to the regaining of their Ancient KINGDOM.</p>
+            <p>Being the Subſtance of ſeveral LETTERS <hi>VIZ.</hi>
+            </p>
+            <p>From ANTWERP, LEGORN, FLORENCE, <hi>&amp;c.</hi>
+            </p>
+            <p>Publiſhed by <hi>R. R.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>A. Maxwell,</hi> in the year 1665.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:32855:2"/>
+            <pb n="1" facs="tcp:32855:2"/>
+            <head>The Reſtauration of the <hi>JEWS,</hi> &amp;c.</head>
+            <div type="letter">
+               <head>
+                  <hi>A Letter from</hi> Antwerp, Octob. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 1665.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>SInce the laſt I received from you, I have had occaſion to ſpeak with one that is well informed of the pro<g ref="char:EOLhyphen"/>ceedings of the <hi>Iſraelites;</hi> he tells me, That they appear in great numbers in ſeveral places: The firſt menti<g ref="char:EOLhyphen"/>oned appears in <hi>Arabia,</hi> they are ſaid to poſſeſs themſelves in <hi>Meka;</hi> but at the firſt, the <hi>Jews</hi> that lived amongſt the <hi>Turks</hi> would not acknowledge them to be their B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ethren, but ſaid they were a ſort of <hi>Arabs,</hi> that lived in the Moun<g ref="char:EOLhyphen"/>tainous parts of <hi>Arabia the Happy;</hi> but now they ſay they are <hi>Iſraelites,</hi> and ſent by the ten T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ibes to be their fore-run<g ref="char:EOLhyphen"/>ners. Another Company are ſaid to move from the Eaſt and North Eaſt Countrey of <hi>Aſia.</hi> The third and great Company in the Deſart Goth of <hi>Morocco,</hi> which is as I con<g ref="char:EOLhyphen"/>ceive, not far from <hi>Cape de Ver,</hi> but more within the Land; they conſiſt of 8000 Companies, the leaſt of them contain 100 men, and ſome of them 1000. A <hi>Jew</hi> that lives in theſe parts came unto <hi>Saley</hi> in <hi>Barbary</hi> in <hi>Auguſt</hi> laſt, and taking
+<pb n="2" facs="tcp:32855:3"/> the Book of the Law into his hand, did ſwear by it, That he came lately from them, and had ſpoken with them, and ſaw them in that number aforementioned, and that they are arm<g ref="char:EOLhyphen"/>ed with Swords, Spears and Bows, an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> no fi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e-Arms are found amongſt them: This Jew did not unde<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtand the Language ordinarily ſpoken by them, but many of them ſpoke <hi>Hebrew,</hi> in which he diſcourſed with them; their Lea<g ref="char:EOLhyphen"/>der is ſaid to be a holy man, underſtandeth all languages, and worketh Miracles.</p>
+               <p>This is by a <hi>Jew</hi> living in <hi>Saly,</hi> to his Brother in <hi>Holland,</hi> and upon that Report which he received from the fore-men<g ref="char:EOLhyphen"/>tioned perſon who had been with them, and is credited with thoſe of his Nation<g ref="char:punc">▪</g> becauſe he is a Rabby, and of much re<g ref="char:EOLhyphen"/>putation among them: They had many incounter with peo<g ref="char:EOLhyphen"/>ple in the way, and have taken ſome places, none b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing able to withſtand them; they put all to the ſword except <hi>Jews,</hi> they reſt upon the Sabbath day, and no fire is ſeen in their Camp; their women and children ſtay ſome where behind them, and follow at a diſtance, none are ſeen with them; they <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ig in a Mountain in the Deſa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a Trumpet, an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t when they find it, a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l Nations will be g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thered to th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m up<g ref="char:EOLhyphen"/>on the ſound thereof.</p>
+               <p>In diſpute with my Informer, I ra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſed many objection<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> con<g ref="char:EOLhyphen"/>cer<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing the pl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ces from whence they came, as alſo the m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<g ref="char:EOLhyphen"/>ner of their coming, <hi>viz.</hi> B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing in a ſpirit of <hi>Judaiſm,</hi> in great power, led by a holy man, doing great mira<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>les, and all things anſwering the deſcription of the Meſſias, they may exp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct that it would be a teſtimony that the Chriſtians and other people and Nations ſhould be gathered in to the <hi>Jews,</hi> and not the <hi>Jews</hi> into Chriſt.</p>
+               <p>To the firſt he ſaid, Thoſe in <hi>Arabia</hi> are of the ſame com<g ref="char:EOLhyphen"/>pany with them that appear ſouth of <hi>Morocco,</hi> and all of them ſeem to lye hid in the Inland Countrey of <hi>Africa,</hi> ex<g ref="char:EOLhyphen"/>tending them elves ove<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the vaſt Tract of Land comprehen<g ref="char:EOLhyphen"/>ding
+<pb n="3" facs="tcp:32855:3"/> all between the two Tropicks, almoſt as far as the Cape of <hi>Good Hope.</hi>
+               </p>
+               <p>He thinketh them to be the white people of whom the Inhabitants of <hi>Guiny</hi> uſe to ſpeak, who will not mix them<g ref="char:EOLhyphen"/>ſelves with their neighbours<g ref="char:punc">▪</g> nor have any other commerce with them; they in the night bring Merc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>andiſes to ſet pla<g ref="char:EOLhyphen"/>ces, and in exchange to have ſalt and other n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ceſſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ies as they want, but will be ſeen by none; ſuch as went from them, are one <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>alf of their way to <hi>Meka;</hi> he thinketh they poſſeſ<g ref="char:EOLhyphen"/>ſed the <hi>Arabians</hi> Countrey, and went out of <hi>Africa</hi> into <hi>A<g ref="char:EOLhyphen"/>merica,</hi> by the ſtrait of the en<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y into the Red-Sea; but whe<g ref="char:EOLhyphen"/>ther by Boat or Miracle, he knows not; thoſe in the Goſt ſeemed to have lived in the North part of <hi>Aſia,</hi> towards the ſtrait of <hi>Amion,</hi> from whence <hi>Manaſſes Ben-Iſrael</hi> c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me; though many of them paſt into <hi>America;</hi> alſo he ſaith, that they having ſuffered great afflictions for the ſins of the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<g ref="char:EOLhyphen"/>thers, are now comeout from Idolatry, to live according to the purity and perfection of the Law, and ſhall from thence be raiſed to the knowledge of Chriſt; he underſtandeth this of a Nation to be born in a day, and their Co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n to be their birth: He thinketh, that the Law being t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and good, and given them by God, it is ſuitable to his proceedings a<g ref="char:EOLhyphen"/>mongſt men, to give a teſtimony of his preſence with thoſe who have not heard of a Chriſt, neither a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e of the poſterity of thoſe that ſlew him, but of the ten Tribes formerly carri<g ref="char:EOLhyphen"/>ed into Captivity, and that they are thereby prepared to re<g ref="char:EOLhyphen"/>ceive the Goſpel; he further ſaith, That all the Chu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es cal<g ref="char:EOLhyphen"/>led by the Name of Chriſtians, are full of vanity, and that they muſt be purified to whom Chriſt will teach his truth, and from them ſhall run a ſtream overflowing the whole world, whereby the Powers of the world ſhall be overthrown, and the right of Chriſt in and with <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is Saints ſhall then begin to be eſtablished; He p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tches much upon 1666 and confi<g ref="char:EOLhyphen"/>dently believes, That all the Propheſies of the Old and New
+<pb n="4" facs="tcp:32855:4"/> Teſtament Centers in it, it being the time that ſhall give be<g ref="char:EOLhyphen"/>ginning to that holy and Spiritual Kingdome. I have ſpo<g ref="char:EOLhyphen"/>ken largely of this, believing you will be willing to hear what is related, and upon what grounds.</p>
+            </div>
+            <div type="letter">
+               <head>
+                  <hi>The ſubſtance of a Letter from</hi> Legorn.</head>
+               <p>I Am glad you have heard ſome ratling of the dry bones of the Houſe of <hi>Iſrael</hi> ſince my laſt which hath had more con<g ref="char:EOLhyphen"/>firmation, not only from <hi>Legorn,</hi> but alſo from <hi>Tunis</hi> in <hi>Barbary,</hi> from whence they write this year, that no Cara<g ref="char:EOLhyphen"/>van is to go to <hi>Meka,</hi> becauſe we hear the Town is be<g ref="char:EOLhyphen"/>ſieged, and from <hi>Jeruſalem</hi> came this week to our Jews, that there was good news; but what, they du<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt not expreſs: and this week alſo ſome of our Chriſtian Merchants have the like news from <hi>Alexandria;</hi> the particulars of this news is, that the B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhaw of <hi>Alexandria</hi> with a King of <hi>Arabia,</hi> having made up a Carivan o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 60000 men, marched towards <hi>Meka,</hi> and being but one days journey from thence, ſent out a Troop to take notice how the buſineſs ſtood; which Troop having ſeen this people lying in Tents about the City and hearing that they profeſt themſelves to be <hi>Iſraelites,</hi> re<g ref="char:EOLhyphen"/>ported this to the Baſhaw, who for all that reſolved to march on with his Forces, and coming within ſight of the City, diſcovered an Innumerable multitude of people getting ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of their Tents, whereupon the Turks give Fire and ſhot againſt them, but after a li<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tle fighting, a pannick fear took them, and terror ſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>zed on them and made them cry out, <hi>Who can fight with theſe people, ſeeing our Arrows return back upon our ſelves!</hi> So the <hi>Turks</hi> le<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t off fighting, and returned home, and the <hi>Iſraelites</hi> into their Tents, without purſuing their Enemies: this affront cauſed the Baſhaw and the King of the <hi>Moores,</hi> throughout all <hi>Egypt</hi> and <hi>Arabia,</hi> to impoſe on the Jews in all their Do<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ini<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n, heavier taxes
+<pb n="5" facs="tcp:32855:4"/> then ever there were five to one; in the interim the Baſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w to know a right what people this was, ſent to them ten Jews, who coming to them, ſound that they ſpake Hebrew and that they were <hi>Iſraelites</hi> indeed; ſaying, they were ſent be<g ref="char:EOLhyphen"/>fore to remain at <hi>Meka</hi> till their Pre<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ren came, for that the time was now come that they ſhould return unto their own Land of their Fore Fathers, which others had uſurped hitherto: another Letter ſaith, that the Commander of <hi>Meka</hi> ſent 4 Troops to oppoſe theſe <hi>Iſraelites,</hi> but not one returned, and that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ive<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Caravans were de<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eated by them by that way. Of the 10 Jews 6 remained there, and 4 only returned to <hi>Alexandria,</hi> from whence we have theſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>idings.</p>
+            </div>
+            <div type="letter">
+               <head>
+                  <hi>The ſubſtance of a Letter from</hi> Florence.</head>
+               <p>This week there came Letters from <hi>Florence;</hi> ſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nifying that the Court of <hi>Florence</hi> was much amazed at the news of the <hi>Iſraelites,</hi> becauſe they ſaid that the Emperor had written to the great Duke, that he was drawing his Army from <hi>Germany,</hi> and had raiſed a great army, and was going to fight with this people: In <hi>Florence</hi> they ſay, they are about 50000: and asking 4 of the Jews that were ſent thi<g ref="char:EOLhyphen"/>ther, what they were; they anſwered, they did not know; but they ſaid themſelves they were Jews: The Emperor wrote this to the great Duke of <hi>Florence.</hi>
+               </p>
+               <p>There are more Letters from <hi>Legorn</hi> to confirm the former News, and they ſay more, That the <hi>Turks</hi> were in a City near <hi>Meka,</hi> called <hi>Me<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ai,</hi> from whence came 12000 <hi>Turks,</hi> who marched up againſt the <hi>Iſraelites,</hi> of which there was ſl<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n 8000 of them, their own ſwords and Muskets turning againſt themſelves: by the next we ſhall hear more. From <hi>Legorn</hi> we are in expectation of very good news.</p>
+            </div>
+            <div type="letter">
+               <pb n="6" facs="tcp:32855:5"/>
+               <head>
+                  <hi>Another from</hi> Legorn.</head>
+               <p>YEſterday came a Letter from <hi>Alſaſia Dipaſi</hi> and <hi>Ra<g ref="char:EOLhyphen"/>pheck Supi,</hi> who writes, that there is a B<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>k arriv<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> from <hi>Alexandria,</hi> in which came dive<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Jews, that brought news, that there was a great number of Souldiers in Tents near <hi>Meka</hi> who would not ſuffer any to paſs that way; and that from the City there went out a great army againſt them, which received a great overthrow: hereupon the Jews w<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e moleſte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> by the increaſe of Taxes from 1 t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 5 more then <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or<g ref="char:EOLhyphen"/>merly, which being complain'd of, anſwer was made, that it was occaſioned by the Jews, who had betaken themſelves to arm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>: upon which reply they deſired to ſend a Meſſenger and accordingly ſent away 10 perſons, who when they came to the Jewiſh army, were welcomed with great joy, feaſting and an<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ating to an indurance of their preſent burden with<g ref="char:EOLhyphen"/>out complaining of the new impoſition required from them, for that within one year, their enemies ſhould become t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<g ref="char:EOLhyphen"/>tary to them.</p>
+            </div>
+            <div type="letter">
+               <head>
+                  <hi>Another from</hi> Amſterdam.</head>
+               <p>THe <hi>Iſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>elites</hi> are in <hi>Meka,</hi> and their Tents are 15 <hi>Germane</hi> miles in length from <hi>Meka</hi>
+                  <g ref="char:punc">▪</g> the Great Turk had a <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> that an <hi>Iſraelite</hi> had taken the Crown from his head; which dre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m did ſo pe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>plex him, that he did adviſe with his Council to cut off all the Jews that were in his Dominions: but they to<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d him it was contrary to their Religion to do ſuch an act, and to do it upon a dream; if it we<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e of God it would ſtand; if not, it would fall.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:32855:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
